@@ -1,0 +1,5 @@
+anthropic>=0.39.0
+langfuse>=2.50.0
+pydantic>=2.10.0
+python-dotenv>=1.0.1
+pytest>=8.3.0
